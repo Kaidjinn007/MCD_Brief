@@ -1,4 +1,4 @@
-# MCD_Brief
+# MCD Brief
 Introduction to MCD<br>
 
 - 🥋 Sensei : &nbsp;                              Philippe 
